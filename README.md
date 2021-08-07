@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 
 **SHIVANI PANKHANIA**
 
-- I’m currently working on Python
-- I’m currently learning Machine Learning
-- I’m looking for help with Internship
-- Ask me about Python, Data Analytics, Machine Learning, Django, DRF
+- I’m currently pursuing B.tech (Information Technology).
+- I’m looking for opportunities that would help me enhance my 
+  knowledge, learnings and skills.
+- Interested to work on projects and gain practical experience.
+- Ask me about Python, Data Analytics, Machine Learning, Django, DRF, Html, CSS, Javascript
 - How to reach me: 
 [Gmail](shivanip2804@gmail.com)
 [Linkedin](www.linkedin.com/in/shivani-pankhania-12549b180)
